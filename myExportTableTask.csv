@@ -1,0 +1,2 @@
+system:index,system:asset_size,system:band_names,system:bands,system:footprint,system:id,system:time_end,system:time_start,system:version,.geo
+20170501,12266105181,"[avg_rad, cf_cvg]",<Element>,"LinearRing(-180.0,-90.0, 180.0,-90.0, 180.0,90.0, -180.0,90.0, -180.0,-90.0)",NOAA/VIIRS/DNB/MONTHLY_V1/VCMSLCFG/20170501,1.4962752E12,1.4935968E12,1502579763511000,"{""type"":""Polygon"",""coordinates"":[[[-180.0,-90.0],[180.0,-90.0],[180.0,90.0],[-180.0,90.0],[-180.0,-90.0]]]}"
